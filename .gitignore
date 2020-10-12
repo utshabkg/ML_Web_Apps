@@ -1,0 +1,7 @@
+venv
+env
+*.pyc
+staticfiles
+.env
+*.sqlite3
+.idea
