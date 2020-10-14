@@ -5,3 +5,9 @@ staticfiles
 .env
 *.sqlite3
 .idea
+txt_sentoken
+*.jpg
+*checkpoint.ipynb
+*.caffemodel
+*.mp4
+*.avi
