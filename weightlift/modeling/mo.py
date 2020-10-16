@@ -138,4 +138,4 @@ for i in range(len(img_array)) :
     out.write(img_array[i])
 out.release()
 
-    return (JsonResponse('1weightlift_skel2.avi', safe=False))
+    # return (JsonResponse('1weightlift_skel2.avi', safe=False))
