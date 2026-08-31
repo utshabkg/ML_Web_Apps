@@ -11,3 +11,13 @@ txt_sentoken
 *.caffemodel
 *.mp4
 *.avi
+# --- security: never commit credentials ---
+client_secrets.json
+client_secret*.json
+service-account*.json
+serviceAccountKey.json
+.env
+.env.*
+*.pem
+*.key
+credentials.json
